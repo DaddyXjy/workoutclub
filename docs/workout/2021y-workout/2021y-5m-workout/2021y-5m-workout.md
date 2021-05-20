@@ -18,7 +18,7 @@
  - [x] [2021.5.17-健身打卡](/workout/2021y-workout/2021y-5m-workout/2021.5.17workout.md)
  - [x] [2021.5.18-健身打卡](/workout/2021y-workout/2021y-5m-workout/2021.5.18workout.md)
  - [x] [2021.5.19-健身打卡](/workout/2021y-workout/2021y-5m-workout/2021.5.19workout.md)
- - [ ] [2021.5.20-健身打卡](/workout/2021y-workout/2021y-5m-workout/2021.5.20workout.md)
+ - [x] [2021.5.20-健身打卡](/workout/2021y-workout/2021y-5m-workout/2021.5.20workout.md)
  - [ ] [2021.5.21-健身打卡](/workout/2021y-workout/2021y-5m-workout/2021.5.21workout.md)
  - [ ] [2021.5.22-健身打卡](/workout/2021y-workout/2021y-5m-workout/2021.5.22workout.md)
  - [ ] [2021.5.23-健身打卡](/workout/2021y-workout/2021y-5m-workout/2021.5.23workout.md)

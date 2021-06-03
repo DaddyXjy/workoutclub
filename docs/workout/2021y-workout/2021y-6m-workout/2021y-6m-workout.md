@@ -1,7 +1,7 @@
 # 2021年6月-健身打卡汇总
- - [ ] [2021.6.1-健身打卡](/workout/2021y-workout/2021y-6m-workout/2021.6.1workout.md)
- - [ ] [2021.6.2-健身打卡](/workout/2021y-workout/2021y-6m-workout/2021.6.2workout.md)
- - [ ] [2021.6.3-健身打卡](/workout/2021y-workout/2021y-6m-workout/2021.6.3workout.md)
+ - [x] [2021.6.1-健身打卡](/workout/2021y-workout/2021y-6m-workout/2021.6.1workout.md)
+ - [x] [2021.6.2-健身打卡](/workout/2021y-workout/2021y-6m-workout/2021.6.2workout.md)
+ - [x] [2021.6.3-健身打卡](/workout/2021y-workout/2021y-6m-workout/2021.6.3workout.md)
  - [ ] [2021.6.4-健身打卡](/workout/2021y-workout/2021y-6m-workout/2021.6.4workout.md)
  - [ ] [2021.6.5-健身打卡](/workout/2021y-workout/2021y-6m-workout/2021.6.5workout.md)
  - [ ] [2021.6.6-健身打卡](/workout/2021y-workout/2021y-6m-workout/2021.6.6workout.md)
